@@ -1,0 +1,171 @@
+[
+    {
+        "barangay_code": "137504033",
+        "barangay_code_10d": "1381600033",
+        "barangay_name": "Canumay East (Canumay)"
+    },
+    {
+        "barangay_code": "137504007",
+        "barangay_code_10d": "1381600007",
+        "barangay_name": "Canumay West (Canumay)"
+    },
+    {
+        "barangay_code": "137504009",
+        "barangay_code_10d": "1381600009",
+        "barangay_name": "Coloong"
+    },
+    {
+        "barangay_code": "137504010",
+        "barangay_code_10d": "1381600010",
+        "barangay_name": "Dalandanan"
+    },
+    {
+        "barangay_code": "137504011",
+        "barangay_code_10d": "1381600011",
+        "barangay_name": "Gen. T. De Leon"
+    },
+    {
+        "barangay_code": "137504012",
+        "barangay_code_10d": "1381600012",
+        "barangay_name": "Isla"
+    },
+    {
+        "barangay_code": "137504008",
+        "barangay_code_10d": "1381600008",
+        "barangay_name": "Karuhatan"
+    },
+    {
+        "barangay_code": "137504013",
+        "barangay_code_10d": "1381600013",
+        "barangay_name": "Lawang Bato"
+    },
+    {
+        "barangay_code": "137504014",
+        "barangay_code_10d": "1381600014",
+        "barangay_name": "Lingunan"
+    },
+    {
+        "barangay_code": "137504015",
+        "barangay_code_10d": "1381600015",
+        "barangay_name": "Mabolo"
+    },
+    {
+        "barangay_code": "137504016",
+        "barangay_code_10d": "1381600016",
+        "barangay_name": "Malanday"
+    },
+    {
+        "barangay_code": "137504017",
+        "barangay_code_10d": "1381600017",
+        "barangay_name": "Malinta"
+    },
+    {
+        "barangay_code": "137504018",
+        "barangay_code_10d": "1381600018",
+        "barangay_name": "Mapulang Lupa"
+    },
+    {
+        "barangay_code": "137504019",
+        "barangay_code_10d": "1381600019",
+        "barangay_name": "Marulas"
+    },
+    {
+        "barangay_code": "137504020",
+        "barangay_code_10d": "1381600020",
+        "barangay_name": "Maysan"
+    },
+    {
+        "barangay_code": "137504021",
+        "barangay_code_10d": "1381600021",
+        "barangay_name": "Palasan"
+    },
+    {
+        "barangay_code": "137504004",
+        "barangay_code_10d": "1381600004",
+        "barangay_name": "Parada"
+    },
+    {
+        "barangay_code": "137504022",
+        "barangay_code_10d": "1381600022",
+        "barangay_name": "Pariancillo Villa"
+    },
+    {
+        "barangay_code": "137504023",
+        "barangay_code_10d": "1381600023",
+        "barangay_name": "Paso De Blas"
+    },
+    {
+        "barangay_code": "137504024",
+        "barangay_code_10d": "1381600024",
+        "barangay_name": "Pasolo"
+    },
+    {
+        "barangay_code": "137504025",
+        "barangay_code_10d": "1381600025",
+        "barangay_name": "Poblacion"
+    },
+    {
+        "barangay_code": "137504026",
+        "barangay_code_10d": "1381600026",
+        "barangay_name": "Pulo"
+    },
+    {
+        "barangay_code": "137504027",
+        "barangay_code_10d": "1381600027",
+        "barangay_name": "Punturin"
+    },
+    {
+        "barangay_code": "137504028",
+        "barangay_code_10d": "1381600028",
+        "barangay_name": "Rincon"
+    },
+    {
+        "barangay_code": "137504029",
+        "barangay_code_10d": "1381600029",
+        "barangay_name": "Tagalag"
+    },
+    {
+        "barangay_code": "137504030",
+        "barangay_code_10d": "1381600030",
+        "barangay_name": "Ugong"
+    },
+    {
+        "barangay_code": "137504031",
+        "barangay_code_10d": "1381600031",
+        "barangay_name": "Viente Reales"
+    },
+    {
+        "barangay_code": "137504032",
+        "barangay_code_10d": "1381600032",
+        "barangay_name": "Wawang Pulo"
+    },
+    {
+        "barangay_code": "137504001",
+        "barangay_code_10d": "1381600001",
+        "barangay_name": "Arkong Bato"
+    },
+    {
+        "barangay_code": "137504002",
+        "barangay_code_10d": "1381600002",
+        "barangay_name": "Bagbaguin"
+    },
+    {
+        "barangay_code": "137504003",
+        "barangay_code_10d": "1381600003",
+        "barangay_name": "Balangkas"
+    },
+    {
+        "barangay_code": "137504005",
+        "barangay_code_10d": "1381600005",
+        "barangay_name": "Bignay"
+    },
+    {
+        "barangay_code": "137504006",
+        "barangay_code_10d": "1381600006",
+        "barangay_name": "Bisig"
+    }
+]
+
+
+
+https://meet.google.com/yvb-jyvg-ojm
